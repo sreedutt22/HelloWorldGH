@@ -1,4 +1,10 @@
 # HelloWorldGH
 Training of GH
-This is Sree. Creating GH Files and Repository for training
-Sree is co-founder of Verudix
+
+Hi THis is Sree
+Sree is a Human
+A Funny Human
+Apart from Funny Sree is a co-founder of Verudix
+Verudix is not human. 
+Verudix is also not funny
+Only Sree is Funny
